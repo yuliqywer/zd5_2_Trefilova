@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\zd5.1_trefilova\\calculatorcredit\\calculatorcredit\\ratespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|solutionrelative:calculatorcredit\\calculatorcredit\\ratespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\zd5.1_trefilova\\calculatorcredit\\calculatorcredit\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|solutionrelative:calculatorcredit\\calculatorcredit\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\zd5.1_trefilova\\calculatorcredit\\calculatorcredit\\calculatorpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|solutionrelative:calculatorcredit\\calculatorcredit\\calculatorpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\zd5.1_trefilova\\calculatorcredit\\calculatorcredit\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|solutionrelative:calculatorcredit\\calculatorcredit\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\zd5.1_trefilova\\calculatorcredit\\calculatorcredit\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|solutionrelative:calculatorcredit\\calculatorcredit\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\zd5.1_trefilova\\calculatorcredit\\calculatorcredit\\ratespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|solutionrelative:calculatorcredit\\calculatorcredit\\ratespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\zd5.1_trefilova\\calculatorcredit\\calculatorcredit\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|solutionrelative:calculatorcredit\\calculatorcredit\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\zd5.1_trefilova\\calculatorcredit\\calculatorcredit\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14DB4042-EB6F-4C9A-9A91-990CD154FBD2}|CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj|solutionrelative:calculatorcredit\\calculatorcredit\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "CalculatorCredit\\CalculatorCredit\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\WelcomePage.xaml",
+              "RelativeToolTip": "CalculatorCredit\\CalculatorCredit\\WelcomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T22:28:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CalculatorCredit\\CalculatorCredit\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\App.xaml.cs",
+              "RelativeToolTip": "CalculatorCredit\\CalculatorCredit\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T22:28:00.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\App.xaml",
+              "RelativeDocumentMoniker": "CalculatorCredit\\CalculatorCredit\\App.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\App.xaml",
+              "RelativeToolTip": "CalculatorCredit\\CalculatorCredit\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T22:27:56.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorPage.xaml",
+              "RelativeDocumentMoniker": "CalculatorCredit\\CalculatorCredit\\CalculatorPage.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorPage.xaml",
+              "RelativeToolTip": "CalculatorCredit\\CalculatorCredit\\CalculatorPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T22:27:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RatesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\RatesPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculatorCredit\\CalculatorCredit\\RatesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\RatesPage.xaml.cs",
+              "RelativeToolTip": "CalculatorCredit\\CalculatorCredit\\RatesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T20:56:35.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RatesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\RatesPage.xaml",
+              "RelativeDocumentMoniker": "CalculatorCredit\\CalculatorCredit\\RatesPage.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\RatesPage.xaml",
+              "RelativeToolTip": "CalculatorCredit\\CalculatorCredit\\RatesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T20:56:20.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\styles.css",
+              "RelativeDocumentMoniker": "CalculatorCredit\\CalculatorCredit\\styles.css",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\styles.css",
+              "RelativeToolTip": "CalculatorCredit\\CalculatorCredit\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-14T20:56:17.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculatorCredit\\CalculatorCredit\\CalculatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorPage.xaml.cs",
+              "RelativeToolTip": "CalculatorCredit\\CalculatorCredit\\CalculatorPage.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwF0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T07:49:44.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
