@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h2pc/wwppvo=",
+  "dgSpecHash": "wvERlovPw7k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit.Android\\CalculatorCredit.Android.csproj",
+  "projectFilePath": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit.Android\\CalculatorCredit.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

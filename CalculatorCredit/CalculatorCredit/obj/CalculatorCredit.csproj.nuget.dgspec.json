@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj": {}
+    "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj": {
+    "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj",
         "projectName": "CalculatorCredit",
-        "projectPath": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj",
+        "projectPath": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

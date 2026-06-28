@@ -16,18 +16,25 @@ namespace CalculatorCredit
         {
             InitializeComponent();
         }
+
         private async void SignInClicked(object sender, EventArgs e)
         {
-            // проверка на заполнение полей
+            // Проверка на заполнение полей
             if (string.IsNullOrWhiteSpace(SurnameEntry.Text))
             {
-                await DisplayAlert("Ошибка", "Пожалуйста, введите вашу Фамилию (Username)", "ОК");
+                await DisplayAlert("Ошибка", "Пожалуйста, введите вашу Фамилию (Username)", "OK");
                 return;
             }
 
-            // переход на второй экран с передачей фамилии пользователя
-            string userSurname = SurnameEntry.Text.Trim();
-            await Navigation.PushAsync(new CalculatorPage(userSurname));
+            if (string.IsNullOrWhiteSpace(PasswordEntry.Text))
+            {
+                await DisplayAlert("Ошибка", "Пожалуйста, введите ваш пароль", "OK");
+                return;
+            }
+
+            // Переход на CarouselPage с тремя экранами
+            var carouselPage = new MainCarouselPage(SurnameEntry.Text);
+            await Navigation.PushAsync(carouselPage);
         }
     }
 }

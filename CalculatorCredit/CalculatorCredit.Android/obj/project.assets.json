@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit.Android\\CalculatorCredit.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit.Android\\CalculatorCredit.Android.csproj",
       "projectName": "CalculatorCredit.Android",
-      "projectPath": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit.Android\\CalculatorCredit.Android.csproj",
+      "projectPath": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit.Android\\CalculatorCredit.Android.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit.Android\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
@@ -3440,8 +3440,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj": {
-              "projectPath": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj"
+            "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj": {
+              "projectPath": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj"
             }
           }
         }

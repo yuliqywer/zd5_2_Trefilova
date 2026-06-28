@@ -9,6 +9,8 @@ namespace CalculatorCredit
         public App()
         {
             InitializeComponent();
+
+            // Запускаем с WelcomePage (с навигацией)
             MainPage = new NavigationPage(new WelcomePage());
         }
 

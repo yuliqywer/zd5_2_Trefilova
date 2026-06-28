@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=639170788215126626
+_nugetassetstimestamp=639178937972964311
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\пользователь\desktop\zd5.1_trefilova\calculatorcredit\calculatorcredit.android\calculatorcredit.android.csproj
+projectfullpath=c:\users\пользователь\desktop\мирошниченко\zd5_2\calculatorcredit\calculatorcredit.android\calculatorcredit.android.csproj

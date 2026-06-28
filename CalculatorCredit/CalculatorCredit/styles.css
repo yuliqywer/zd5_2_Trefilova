@@ -1,52 +1,108 @@
-﻿/* экран WELCOME */
-
-.welcome-title {
-    color: #ffffff;
-    font-size: 26;
+﻿.welcome-title {
+    font-size: 32;
     font-weight: bold;
-    text-align: center;
+    color: #FFFFFF;
+    horizontal-text-alignment: center;
 }
 
 .login-entry {
-    background-color: #f0f0f0;
-    color: #2c3e50;
-    height: 55;
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 16;
+    padding: 10;
 }
+
 
 .signin-button {
-    background-color: #3498db;
-    color: #ffffff;
+    background-color: #4A90D9;
+    color: #FFFFFF;
     font-size: 18;
     font-weight: bold;
-    height: 55;
+    border-radius: 8;
+    padding: 15;
+    margin-top: 10;
 }
 
-/* стили калькулятора */
+    .signin-button:static {
+        background-color: #4A90D9;
+        color: #FFFFFF;
+    }
 
-contentpage {
-    background-color: #ecf0f1;
-}
+    .signin-button:hover {
+        background-color: #5BA3E6;
+        color: #FFFFFF;
+    }
 
-label {
-    font-size: 15;
-    color: #2c3e50;
-}
+    .signin-button:pressed {
+        background-color: #357ABD;
+        color: #FFFFFF;
+    }
 
-.header-label {
-    font-size: 20;
+.static-button {
+    background-color: #4A90D9;
+    color: #FFFFFF;
+    font-size: 16;
     font-weight: bold;
-    color: #2980b9;
-    text-align: center;
-}
-
-.result-label {
-    font-size: 18;
-    font-weight: 600;
-    color: #e67e22;
-}
-
-entry, picker {
-    background-color: #ffffff;
-    color: #34495e;
+    border-radius: 8;
+    padding: 12;
     height: 50;
+}
+
+.static-button:static {
+    background-color: #4A90D9;
+    color: #FFFFFF;
+}
+
+.hover-button {
+    background-color: #4A90D9;
+    color: #FFFFFF;
+    font-size: 16;
+    font-weight: bold;
+    border-radius: 8;
+    padding: 12;
+    height: 50;
+}
+
+.hover-button:hover {
+    background-color: #5BA3E6;
+    color: #FFFFFF;
+}
+
+
+.pressed-button {
+    background-color: #4A90D9;
+    color: #FFFFFF;
+    font-size: 16;
+    font-weight: bold;
+    border-radius: 8;
+    padding: 12;
+    height: 50;
+}
+
+.pressed-button:pressed {
+    background-color: #357ABD;
+    color: #FFFFFF;
+}
+
+
+Frame {
+    background-color: #282c34;
+    border-radius: 8;
+}
+
+Slider {
+    height: 40;
+}
+
+BoxView {
+    background-color: #CCCCCC;
+}
+
+CheckBox {
+    color: #FFFFFF;
+}
+
+Switch {
+    on-color: #4A90D9;
+    thumb-color: #FFFFFF;
 }

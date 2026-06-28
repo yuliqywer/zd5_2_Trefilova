@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MtPyRJ4bGws=",
+  "dgSpecHash": "qgBrFypx0bw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Пользователь\\Desktop\\zd5.1_Trefilova\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj",
+  "projectFilePath": "C:\\Users\\Пользователь\\Desktop\\Мирошниченко\\zd5_2\\CalculatorCredit\\CalculatorCredit\\CalculatorCredit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Пользователь\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Пользователь\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

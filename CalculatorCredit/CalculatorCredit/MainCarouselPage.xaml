@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              x:Class="CalculatorCredit.MainCarouselPage">
+
+    <CarouselPage.Resources>
+        <StyleSheet Source="/styles.css" />
+    </CarouselPage.Resources>
+
+    <ContentPage Title="Main">
+        <Grid BackgroundColor="#212429">
+            <ScrollView Padding="20" VerticalOptions="FillAndExpand">
+                <StackLayout Spacing="20">
+
+                    <Label x:Name="WelcomeUserLabel" Text="" TextColor="#FFFFFF" 
+                           FontSize="18" HorizontalTextAlignment="Center" 
+                           Margin="0,10,0,20"/>
+
+                    <Label Text="STATIC" TextColor="#888888" FontSize="12" Margin="0,10,0,0"/>
+                    <Grid ColumnDefinitions="*, *, *" ColumnSpacing="10">
+                        <Button Grid.Column="0" Text="STATIC" StyleClass="static-button" />
+                        <Button Grid.Column="1" Text="STATIC" StyleClass="static-button" />
+                        <Button Grid.Column="2" Text="STATIC" StyleClass="static-button" />
+                    </Grid>
+
+                    <Label Text="HOVER" TextColor="#888888" FontSize="12" Margin="0,10,0,0"/>
+                    <Grid ColumnDefinitions="*, *, *" ColumnSpacing="10">
+                        <Button Grid.Column="0" Text="HOVER" StyleClass="hover-button" />
+                        <Button Grid.Column="1" Text="HOVER" StyleClass="hover-button" />
+                        <Button Grid.Column="2" Text="HOVER" StyleClass="hover-button" />
+                    </Grid>
+
+                    <Label Text="PRESSED" TextColor="#888888" FontSize="12" Margin="0,10,0,0"/>
+                    <Grid ColumnDefinitions="*, *, *" ColumnSpacing="10">
+                        <Button Grid.Column="0" Text="PRESSED" StyleClass="pressed-button" />
+                        <Button Grid.Column="1" Text="PRESSED" StyleClass="pressed-button" />
+                        <Button Grid.Column="2" Text="PRESSED" StyleClass="pressed-button" />
+                    </Grid>
+
+                    <Label Text="SLIDER 1" TextColor="#888888" FontSize="12" Margin="0,10,0,0"/>
+                    <Slider x:Name="Slider1" Minimum="0" Maximum="100" Value="50" 
+                            ThumbColor="#4A90D9" MaximumTrackColor="#444" MinimumTrackColor="#4A90D9" 
+                            HeightRequest="30" />
+
+                    <Label Text="SLIDER 2" TextColor="#888888" FontSize="12" Margin="0,10,0,0"/>
+                    <Slider x:Name="Slider2" Minimum="0" Maximum="100" Value="30" 
+                            ThumbColor="Transparent" MaximumTrackColor="#444" MinimumTrackColor="#4A90D9" 
+                            HeightRequest="50" />
+
+                    <Label Text="SLIDER 3" TextColor="#888888" FontSize="12" Margin="0,10,0,0"/>
+                    <Slider x:Name="Slider3" Minimum="0" Maximum="100" Value="70" 
+                            ThumbColor="#4A90D9" MaximumTrackColor="#444" MinimumTrackColor="#4A90D9" 
+                            HeightRequest="50" />
+
+                    <Label Text="SLIDER 4" TextColor="#888888" FontSize="12" Margin="0,10,0,0"/>
+                    <Slider x:Name="Slider4" Minimum="0" Maximum="100" Value="45" 
+                            ThumbColor="#4A90D9" MaximumTrackColor="#444" MinimumTrackColor="#4A90D9" 
+                            HeightRequest="50" />
+
+                    <Label Text="CONTROLS" TextColor="#888888" FontSize="12" Margin="0,10,0,0"/>
+
+                    <Grid ColumnDefinitions="*, *, *, *, *, *, *" ColumnSpacing="5" RowSpacing="10">
+
+                        <StackLayout Grid.Column="0" HorizontalOptions="Center" Spacing="2">
+                            <Switch x:Name="Toggle1" IsToggled="True" OnColor="#4A90D9" ThumbColor="White" />
+                        </StackLayout>
+
+                        <StackLayout Grid.Column="1" HorizontalOptions="Center" Spacing="2">
+                            <Label Text="ON" TextColor="#4A90D9" FontSize="10" HorizontalTextAlignment="Center"/>
+                            <Switch x:Name="Toggle2" IsToggled="False" OnColor="#4A90D9" ThumbColor="White"/>
+                            <Label Text="OFF" TextColor="#888888" FontSize="10" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+
+                        <StackLayout Grid.Column="2" HorizontalOptions="Center" Spacing="2">
+                            <Label Text="✓" TextColor="#4A90D9" FontSize="14" HorizontalTextAlignment="Center"/>
+                            <Switch x:Name="Toggle3" IsToggled="True" OnColor="#4A90D9" ThumbColor="White"/>
+                            <Label Text="✗" TextColor="#888888" FontSize="14" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+
+                        <StackLayout Grid.Column="3" HorizontalOptions="Center" Spacing="2">
+                            <BoxView WidthRequest="40" HeightRequest="40" CornerRadius="20" 
+                                     BackgroundColor="#4A90D9" />
+                            <Label Text="ON" TextColor="#4A90D9" FontSize="10" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+
+                        <StackLayout Grid.Column="4" HorizontalOptions="Center" Spacing="2">
+                            <BoxView WidthRequest="40" HeightRequest="40" CornerRadius="20" 
+             BackgroundColor="Transparent" />
+                            <Label Text="OFF" TextColor="#888888" FontSize="10" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+
+                        <StackLayout Grid.Column="5" HorizontalOptions="Center" Spacing="2">
+                            <CheckBox x:Name="CheckBox1" IsChecked="True" Color="#4A90D9" />
+                            <Label Text="ON" TextColor="#4A90D9" FontSize="10" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+
+                        <StackLayout Grid.Column="6" HorizontalOptions="Center" Spacing="2">
+                            <CheckBox x:Name="CheckBox2" IsChecked="False" Color="#4A90D9" />
+                            <Label Text="OFF" TextColor="#888888" FontSize="10" HorizontalTextAlignment="Center"/>
+                        </StackLayout>
+
+                    </Grid>
+
+                    <Button x:Name="GoToInfoButton" Text="Перейти к информации" 
+                            StyleClass="signin-button" Clicked="GoToInfoClicked" 
+                            Margin="0,20,0,0"/>
+
+                </StackLayout>
+            </ScrollView>
+        </Grid>
+    </ContentPage>
+
+    <ContentPage Title="Info">
+        <Grid BackgroundColor="#212429">
+            <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="20" Padding="30">
+
+                <Label Text="Information" TextColor="#FFFFFF" StyleClass="welcome-title" HorizontalTextAlignment="Center" />
+
+                <Frame BackgroundColor="#282c34" CornerRadius="8" Padding="20" Margin="10">
+                    <StackLayout Spacing="15">
+                        <Label x:Name="InfoUserLabel" TextColor="#FFFFFF" FontSize="16" HorizontalTextAlignment="Center" />
+                        <Label x:Name="InfoSliderValueLabel" TextColor="#4A90D9" FontSize="18" FontAttributes="Bold" HorizontalTextAlignment="Center" />
+                        <Label x:Name="InfoDescriptionLabel" TextColor="#AAAAAA" FontSize="14" HorizontalTextAlignment="Center" />
+
+                        <Button x:Name="InfoStaticButton" Text="STATIC" StyleClass="signin-button" />
+                    </StackLayout>
+                </Frame>
+
+            </StackLayout>
+        </Grid>
+    </ContentPage>
+
+</CarouselPage>
